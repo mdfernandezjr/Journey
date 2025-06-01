@@ -1,4 +1,4 @@
 ---
-title: "My Learning Ledger: Project Snapshots & Steps"
+title: index title
 ---
-##My Learning Ledger
+## My Learning Ledger
