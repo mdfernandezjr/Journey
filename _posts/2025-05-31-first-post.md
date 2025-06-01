@@ -1,5 +1,5 @@
 ---
-title: setting-up-github-pages
+title: setting up github pages
 date: 2025-05-31
 ---
 
